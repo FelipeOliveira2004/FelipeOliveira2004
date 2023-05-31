@@ -14,4 +14,4 @@
 
 ### Estatísticas
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeOliveira2004&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOliveira2004&layout=compact&theme=dark)](https://github.com/FelipeOliveira2004/github-readme-stats)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeOliveira2004&include_all_commits=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOliveira2004&layout=compact&theme=dark)](https://github.com/FelipeOliveira2004/github-readme-stats)
