@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá! Eu sou o Felipe Oliveira 👋
 
-<!--
-**FelipeOliveira2004/FelipeOliveira2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+<ul>
+    <li>🇧🇷 Sou do Brasil</li>
+    <li>✏️ Autodidata em programação e inglês</li>
+    <li>💻 Desenvolvedor Front-end</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeoliveira2004/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeo2015123@gmail.com)
+
+### Estatísticas
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeOliveira2004&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOliveira2004&layout=compact&theme=dark)](https://github.com/FelipeOliveira2004/github-readme-stats)
